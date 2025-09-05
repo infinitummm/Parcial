@@ -50,8 +50,8 @@ Guarda `GestionEstudiantes.c` y compila con `gcc`:
 En Windows (PowerShell/CMD):
 
 ```powershell
-gcc GestionEstudiantes.c -o gestion_estudiantes.exe
-gestion_estudiantes.exe
+gcc GestionEstudiantes.c -o GestionEstudiantes.exe
+GestionEstudiantes.exe
 ```
 
 
@@ -216,5 +216,6 @@ La `DIVIDE` función es la más compleja, ya que requiere la representación de 
 [2] Barendregt, H. P. (1984). *The Lambda Calculus: Its Syntax and Semantics*. North-Holland.
 
 ---
+
 
 
