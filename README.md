@@ -24,7 +24,7 @@
 
 ### Punto 1 — Python (imperativo)
 
-1. Guarda el archivo `p1_imperativo.py` en tu máquina.
+1. Guarda el archivo `imperativo.py` en tu máquina.
 2. Ejecuta:
 
 ```bash
@@ -38,7 +38,7 @@ Guarda `imperativo.py`.
 * Compilar y ejecutar:
 
 ```bash
-ghc p1_funcional.hs -o ordenar
+ghc funcional.hs -o ordenar
 ./ordenar
 ```
 
@@ -50,7 +50,7 @@ Guarda `GestionEstudiantes.c` y compila con `gcc`:
 En Windows (PowerShell/CMD):
 
 ```powershell
-gcc gestion_estudiantes.c -o gestion_estudiantes.exe
+gcc GestionEstudiantes.c -o gestion_estudiantes.exe
 gestion_estudiantes.exe
 ```
 
@@ -216,4 +216,5 @@ La `DIVIDE` función es la más compleja, ya que requiere la representación de 
 [2] Barendregt, H. P. (1984). *The Lambda Calculus: Its Syntax and Semantics*. North-Holland.
 
 ---
+
 
